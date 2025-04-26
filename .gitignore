@@ -1,0 +1,8 @@
+linux/data*
+node_modules
+dist
+tmp
+logs
+.vscode
+.env
+.env.local*
